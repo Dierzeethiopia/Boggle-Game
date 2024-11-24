@@ -1,4 +1,3 @@
-# DO NOT MODIFY
 # graphics.py
 """Simple object oriented graphics library
 
